@@ -1,0 +1,16 @@
+D:\leetcode\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\leetcode\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\leetcode\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\leetcode\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\leetcode\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\leetcode\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\leetcode\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\leetcode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\leetcode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\leetcode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\leetcode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\leetcode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\leetcode\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\leetcode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\leetcode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\leetcode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
